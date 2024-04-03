@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I work as a Systems Analyst and Data Analyst at Tata Consultancy Services, where I leverage my expertise in analyzing complex systems and data to drive strategic decision-making and deliver actionable insights for optimizing business performance.
 
 * 🌍  I'm based in Mumbai, Maharashtra
-* 🖥️  See my portfolio at [My Portfolio](http://www.notion.so/Meenu-Mishra-a71ba1277384429a9c31bdecf62256cc?pvs=4)
+* 🖥️  See my portfolio at [My Portfolio]([http://www.notion.so/Meenu-Mishra-a71ba1277384429a9c31bdecf62256cc?pvs=4)
 * ✉️  You can contact me at [meenumishra2828@gmail.com](mailto:meenumishra2828@gmail.com)
 * 🧠  I'm learning Time Series Analysis, which involves analyzing data collected over time to identify trends, seasonality, and patterns. This technique is commonly used in forecasting and trend analysis, allowing for insights into historical data and predictions for future outcomes.
 
